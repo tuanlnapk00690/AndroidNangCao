@@ -11,7 +11,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-"
+"
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -37,6 +37,20 @@
         <activity
             android:name="com.lab4.Lab4_Activity"
             android:label="@string/title_activity_lab4" >
+        </activity>
+        <activity android:name="com.lab1.Lab1_Activity" >
+        </activity>
+        <activity android:name="com.lab5.Lab5_Activity" >
+        </activity>
+        <activity android:name="com.lab6.Lab6_Activity" >
+        </activity>
+        <activity android:name="com.lab7.Lab7_Activity" >
+        </activity>
+        <activity android:name="com.lab8.Lab8_Activity" >
+        </activity>
+        <activity
+            android:name="com.quantri.Quantri_Activity"
+            android:label="@string/title_activity_quantri_" >
         </activity>
     </application>
 
