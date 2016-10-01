@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/txtName"
+        style="@style/StyleItem_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/txtPhone"
+        style="@style/StyleItem_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" >
+
+        <ImageButton
+            android:id="@+id/btnCall"
+            android:layout_width="46px"
+            android:layout_height="46px"
+            android:src="@drawable/call"
+            android:visibility="visible"
+            android:layout_marginRight="10dp" />
+
+        <ImageButton
+            android:id="@+id/btnSms"
+            android:layout_width="46px"
+            android:layout_height="46px"
+            android:src="@drawable/sms"
+            android:layout_marginRight="10dp" />
+
+        <ImageButton
+            android:id="@+id/btnDel"
+            android:layout_width="46px"
+            android:layout_height="46px"
+            android:layout_gravity="right"
+            android:src="@drawable/delete"
+            android:layout_marginRight="10dp" />
+
+        <ImageButton
+            android:id="@+id/btnAddFav"
+            android:layout_width="46px"
+            android:layout_height="46px"
+            android:layout_gravity="right"
+            android:src="@drawable/favourite" />
+
+    </LinearLayout>
+
+</LinearLayout>

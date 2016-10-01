@@ -61,7 +61,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text="Nội dung chương trình"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -81,7 +81,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text="Form đăng nhập, đăng ký, quên mật khẩu"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -101,7 +101,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text="Dialog login"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -121,7 +121,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text=" ListView"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -141,7 +141,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text=" "
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -161,7 +161,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text=" "
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -181,7 +181,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginLeft="10dp"
-            android:text="Xây dựng hệ thống nội dung chương trình"
+            android:text=" "
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
