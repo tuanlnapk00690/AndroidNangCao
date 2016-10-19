@@ -9,7 +9,7 @@
     tools:context="com.quantri.Quantri_Activity" >
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/txtBundle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Quản trị"
